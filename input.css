@@ -14,14 +14,15 @@ body {
      }
 
      @media(max-width: 576px) {
-        body {
-        background-position: 50px -50px;
-        background-size: 500px;
-        }
-        #cta {
-        background-image: url('../images/bg-simplify-section-mobile.svg');
-        }
-        }
+    body {
+    background-position: 50px -50px;
+    background-size: 500px;
+    }
+    
+    #cta {
+    background-image: url('../images/bg-simplify-section-mobile.svg');
+    }
+    }
 
 
 
